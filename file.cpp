@@ -6,5 +6,6 @@ int main()
     int b = 4;
     int c = a + b;
     cout << c;
+    cout << "hello world.";
     return 0;
 }
